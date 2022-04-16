@@ -23,7 +23,6 @@ public class AccountHolderObjects {
 		Neha.accountbalance=25000;
 		Neha.testEligibilityForCreditCard();
 		System.out.println("Is Neha eligible for Credit Card? "+Neha.eligibleForCreditCard);
-		//Test 123
 		
 		Henry.fname="Henry";
 		Henry.lname="Trivedi";
